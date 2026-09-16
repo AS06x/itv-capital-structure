@@ -1,0 +1,20 @@
+"as_of_date,facility,face_amount,maturity,drawn,undrawn,source"
+"2025-12-31,£500m multilateral RCF,500,Jan 2029,0,500,FY2025 Note 4.1"
+"2025-12-31,£100m bilateral RCF,100,Dec 2028,0,100,FY2025 Note 4.1"
+"2025-12-31,£200m bilateral loan,200,Dec 2030,0,125,FY2025 Note 4.1"
+"2025-12-31,£300m term loan,300,2029,0,0 (available from 26 Jun 2026),FY2025 Note 4.1"
+"2025-12-31,Cash,n/a,n/a,n/a,302,FY2025 balance sheet"
+"2026-06-30,£500m multilateral RCF,500,Jan 2029,60,440,H1 2026 Note 4.1"
+"2026-06-30,£100m bilateral RCF,100,Dec 2028,0,100,H1 2026 Note 4.1"
+"2026-06-30,£200m bilateral loan,200,Dec 2030,0,200,H1 2026 Note 4.1"
+"2026-06-30,£300m term loan,300,2029,0,300 (available from 26 Jun 2026),H1 2026 Note 4.1"
+"2026-06-30,Cash,n/a,n/a,n/a,264,H1 2026 balance sheet"
+
+
+
+
+
+
+
+
+
